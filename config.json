@@ -1,0 +1,12 @@
+{
+  "services": [
+    {
+      "name": "Google",
+      "url": "https://google.com"
+    },
+    {
+      "name": "GitHub",
+      "url": "https://github.com"
+    }
+  ]
+}
